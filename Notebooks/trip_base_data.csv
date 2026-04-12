@@ -1,0 +1,10 @@
+mode,distance_km,travel_time_min,access_time_min,waiting_time_min,transfers,total_time_min
+private_car,2.5,7.0,0,0.0,0,7.0
+car_sharing,2.5,7.0,5,0.0,0,12.0
+private_bike,2.5,12.0,0,0.0,0,12.0
+bike_sharing,2.5,12.0,5,0.0,0,17.0
+e_scooter_sharing,2.5,9.5,5,0.0,0,14.5
+e_scooter_private,2.5,9.5,0,0.0,0,9.5
+taxi,2.5,7.0,0,4.0,0,11.0
+ride_hailing,2.5,7.0,2,5.0,0,14.0
+public_transport,2.5,15.0,6,7.5,0,28.5
