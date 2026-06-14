@@ -10,28 +10,16 @@ The repository is organised as a sequence of Jupyter notebooks ("EX1", "EX2"... 
 
 ## Table of Contents
 
-1. [Who this is for](#who-this-is-for)
-2. [Project context & goals](#project-context--goals)
-3. [Repository structure](#repository-structure)
-4. [The data](#the-data)
-5. [Analysis workflow — what each notebook does](#analysis-workflow--what-each-notebook-does)
-6. [Results folder — interactive maps & outputs](#results-folder--interactive-maps--outputs)
-7. [Key results so far](#key-results-so-far)
-8. [Glossary — key concepts explained simply](#glossary--key-concepts-explained-simply)
-9. [Setup & requirements](#setup--requirements)
-10. [How to reproduce the analysis](#how-to-reproduce-the-analysis)
-11. [Known limitations & notes](#known-limitations--notes)
-
----
-
-## Who this is for
-
-This README is written so that it can be useful to **everyone** who opens this repository, regardless of background:
-
-- **Students** — a guided tour of a full real-world data analysis pipeline (cleaning → exploration → spatial analysis → demand modelling → economics), with a glossary of technical terms.
-- **Professors / reviewers** — a map of the notebooks, what each one demonstrates, and the methodology behind each step.
-- **Data/transport specialists** — details on data cleaning rules, coordinate reference systems, spatial joins, OD (Origin–Destination) matrices, gravity/decay models, and generalised cost formulas.
-- **Managers / non-technical readers** — a plain-language summary of what was found (usage patterns, revenue/cost estimates, profitability comparison between operators) without needing to read any code.
+1. [Project context & goals](#project-context--goals)
+2. [Repository structure](#repository-structure)
+3. [The data](#the-data)
+4. [Analysis workflow — what each notebook does](#analysis-workflow--what-each-notebook-does)
+5. [Results folder — interactive maps & outputs](#results-folder--interactive-maps--outputs)
+6. [Key results so far](#key-results-so-far)
+7. [Glossary — key concepts explained simply](#glossary--key-concepts-explained-simply)
+8. [Setup & requirements](#setup--requirements)
+9. [How to reproduce the analysis](#how-to-reproduce-the-analysis)
+10. [Known limitations & notes](#known-limitations--notes)
 
 ---
 
